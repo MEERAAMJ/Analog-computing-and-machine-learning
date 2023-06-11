@@ -1,1 +1,1 @@
-# Analog-computing-and-machine-learning
+Differentiable programming using JAX
